@@ -1,0 +1,34 @@
+.Banner {
+    background-image: url(../../assets/images/Barang-Elektronik.jpg);
+    margin: auto;
+    width: 80%;
+    height: 80vh;
+    background-size: cover;
+    background-position-x: -1200px;
+    background-position-y: 1000px;
+  }
+  
+  .Banner-info {
+    width: 50%;
+    /* padding: 120px 100px; */
+    margin-left: 100px;
+    padding-top: 120px;
+    text-align: left;
+  }
+  
+  .Banner h1 {
+    color: brown;
+  }
+  
+  .Banner p {
+    color: white;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    margin-bottom: 10px;
+    text-align: left;
+    width: 50%;
+  }
+
+ 

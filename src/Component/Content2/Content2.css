@@ -1,0 +1,34 @@
+.Content {
+    margin: auto;
+    margin-bottom: 40px;
+    width: 80%;
+    height: 80vh;
+    background-size: cover;
+    background-position-x: -1200px;
+    background-position-y: 1000px;
+    display: flexs;
+  }
+  
+  .Content-info {
+    width: 20%;
+    /* padding: 120px 100px; */
+    margin-left: 50px;
+    padding-top: 100px;
+    text-align: left;
+  }
+  
+  
+  .Content p {
+    color: black;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    margin-bottom: 10px;
+    text-align: left;
+    width: 20;
+  }
+
+ .description{
+    margin-bottom: 40px;
+ }

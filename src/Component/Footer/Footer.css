@@ -1,0 +1,13 @@
+.Footer {
+    display: flex;
+    background-color: rgb(15, 12, 12);
+    margin-top: 20px;
+    text-align: center;
+    padding: 30px;
+    justify-content: space-around;
+  }
+
+
+.Copyright a{
+  color: rgb(255, 255, 255);
+}
